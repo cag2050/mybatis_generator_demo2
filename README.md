@@ -1,4 +1,6 @@
-### mybatis-generator-maven-plugin（自动生成mybatis所需要的dao、bean、mapper xml文件）使用例子
+### mybatis-generator-maven-plugin（自动生成mybatis所需要的dao、bean、mapper、xml文件）使用例子
+
+### 需要配置好 generatorConfig.xml，然后运行插件
 
 ### mysql数据库需要做的操作
 1. mysql中新建数据库(schema):web_demo
