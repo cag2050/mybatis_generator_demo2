@@ -1,3 +1,5 @@
+### mybatis-generator-maven-plugin（自动生成mybatis所需要的dao、bean、mapper xml文件）使用例子
+
 ### mysql数据库需要做的操作
 1. mysql中新建数据库(schema):web_demo
 2. 执行创建table user和插入数据的操作：
